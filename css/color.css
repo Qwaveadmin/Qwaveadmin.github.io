@@ -13,7 +13,7 @@ a,
 .works-grid.titles .work-description a:hover,
 #owl-related-works .work-description a:hover,
 .portfolio-description ul > li a:hover {
-	color: #bfa67a;
+	color: #0f5c8a;
 }
 
 .socials a:hover i,
@@ -25,7 +25,7 @@ a,
 .btn.btn-color,
 .btn:hover,
 .socials.footer-socials a:hover i {
-	background-color: #bfa67a;
+	background-color: #0f5c8a;
 }
 
 
@@ -56,9 +56,9 @@ input[type="tel"]:focus,
 input[type="time"]:focus,
 input[type="url"]:focus,
 textarea:focus {
-	border-color: #bfa67a;
+	border-color: #0f5c8a;
 }
 
 .dropdown-menu {
-	border-top-color: #bfa67a;
+	border-top-color: #0f5c8a;
 }
