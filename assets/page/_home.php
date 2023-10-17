@@ -1,108 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<!-- Mirrored from deothemes.com/envato/enigma/html/index-mp.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 03 Oct 2023 12:21:45 GMT -->
-<head>
-  <title>Home | QWAVE CO LTD.</title>
-
-  <meta charset="utf-8">
-  <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
-  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-  <meta name="description" content="">
-
-  <!-- Google Fonts -->
-  <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700%7CPT+Serif:400,700,400italic%7COpen+Sans:400,600,700,400italic' rel='stylesheet'>
-
-  <!-- Css -->
-  <link rel="stylesheet" href="css/bootstrap.min.css" />
-  <link rel="stylesheet" href="css/magnific-popup.css" />
-  <link rel="stylesheet" href="css/font-icons.css" />
-  <link rel="stylesheet" href="revolution/css/settings.css" />
-  <link rel="stylesheet" href="css/rev-slider.css" />
-  <link rel="stylesheet" href="css/sliders.css">
-  <link rel="stylesheet" href="css/style.css" />
-  <link rel="stylesheet" href="css/responsive.css" />
-  <link rel="stylesheet" href="css/spacings.css" />
-  <link rel="stylesheet" href="css/animate.css" />
-  <link rel="stylesheet" href="css/color.css" />
-
-  <!-- Favicons -->
-  <link rel="shortcut icon" href="img/favicon.ico">
-  <link rel="apple-touch-icon" href="img/apple-touch-icon.html">
-  <link rel="apple-touch-icon" sizes="72x72" href="img/apple-touch-icon-72x72.png">
-  <link rel="apple-touch-icon" sizes="114x114" href="img/apple-touch-icon-114x114.html">
-
-</head>
-
-<body style="font-family: 'Open Sans', sans-serif;">
-
-  <!-- Preloader -->
-  <div class="loader-mask">
-    <div class="loader">
-      "Loading..."
-    </div>
-  </div>
-
-  <header class="nav-type-2">
-    
-    <nav class="navbar navbar-static-top">
-      <div class="navigation">
-        <div class="container relative">
-
-          <form method="get" class="search-wrap">
-            <input type="search" class="form-control" placeholder="Type &amp; Hit Enter">
-          </form>
-
-          <div class="row">
-
-            <div class="navbar-header">
-              <!-- Logo -->
-              <div class="logo-container">
-                <div class="logo-wrap">
-                  <a href="index.html">
-                    <img class="logo"  src="img/Logo.png" alt="logo">
-                  </a>
-                </div>
-              </div>
-              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-              </button>
-            </div> <!-- end navbar-header -->
-
-            <div class="col-md-9 nav-wrap right">
-              <div class="collapse navbar-collapse" id="navbar-collapse">
-                
-                <ul class="nav navbar-nav navbar-right">
-
-                  <li class="dropdown active">
-                    <a href="index-mp.html" class="dropdown-toggle" data-toggle="dropdown">Home</a>
-                  </li>
-
-                  <!-- <li>
-                    <a href="contact.html">Services</a>
-                  </li>
-
-                  <li>
-                    <a href="contact.html">Project</a>
-                  </li> -->
-
-                  <li>
-                    <a href="contact.html">Contact Us</a>
-                  </li>
-
-                  
-                </ul> <!-- end menu -->
-              </div> <!-- end collapse -->
-            </div> <!-- end col -->
-            
-          </div> <!-- end row -->
-        </div> <!-- end container -->
-      </div> <!-- end navigation -->
-    </nav> <!-- end navbar -->
-  </header>
 
 
   <div class="main-wrapper-mp oh">
@@ -299,7 +194,7 @@
                 data-transform_in="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;s:1000;"
                 data-transform_out="opacity:0;s:1000;e:Power3.easeInOut;"
                 data-start="1400"
-                style="z-index: 12; max-width: auto; max-height: auto; white-space: nowrap;"><a href='contact.html' class='btn btn-lg btn-white'>Contact Us</a>
+                style="z-index: 12; max-width: auto; max-height: auto; white-space: nowrap;"><a href='contact.php' class='btn btn-lg btn-white'>Contact Us</a>
               </div>
 
             
@@ -311,6 +206,25 @@
       </div>
     </section>
 
+<div class="bar">
+    <button class="section">
+        <div class="thai">งานซ่อม</div>
+        <div class="english">Repair</div>
+    </button>
+    <button class="section">
+        <div class="thai">งานโครงการ</div>
+        <div class="english">Project</div>
+    </button>
+    <button class="section">
+        <div class="thai">งานเขียนโปรเเกรม</div>
+        <div class="english">Programming</div>
+    </button>
+    <button class="section">
+        <div class="thai">ผลิตภัณฑ์ของเรา</div>
+        <div class="english">Our Products</div>
+    </button>
+</div>
+   
 <!-- Our Services -->
 <section class="section-wrap-mp services style-2 pb-40 pb-mdm-50">
   <div class="container">
@@ -405,7 +319,7 @@
                       <p class="subheading">Empowering Technology</p>
                       <h3 class="color-white">Advanced Solutions for Logistics</h3>
                       <p class="mb-30">We specialize in delivering cutting-edge technology solutions for your factory needs and optimizing logistics operations. Let us help you streamline your processes and boost productivity.</p> 
-                      <a href="contact.html" class="btn btn-lg btn-color">Contact Us</a>
+                      <a href="contact.php" class="btn btn-lg btn-color">Contact Us</a>
                       <div class="customNavigation mt-40">
                           <a class="prev"><i class="icon arrow_left"></i></a>
                           <a class="next"><i class="icon arrow_right"></i></a>
@@ -428,7 +342,7 @@
                     <p class="subheading">Electronic Repairs</p>
                     <h3 class="color-white">Antenna Configuration Expertise</h3>
                     <p class="mb-30">We specialize in electronic repairs, including antenna configuration services. Let our experts ensure your equipment operates at its best, providing seamless connectivity and reliability.</p> 
-                    <a href="contact.html" class="btn btn-lg btn-color">Contact Us</a>
+                    <a href="contact.php" class="btn btn-lg btn-color">Contact Us</a>
                     <div class="customNavigation mt-40">
                         <a class="prev"><i class="icon arrow_left"></i></a>
                         <a class="next"><i class="icon arrow_right"></i></a>
@@ -452,7 +366,7 @@
                   <p class="subheading">Repair Solutions</p>
                   <h3 class="color-white">Attenna Specialist</h3>
                   <p class="mb-30">We provide comprehensive tools and expertise for all types of cell towers and repairs. Let us help you maintain and optimize your infrastructure for seamless communication.</p> 
-                  <a href="contact.html" class="btn btn-lg btn-color">Contact Us</a>
+                  <a href="contact.php" class="btn btn-lg btn-color">Contact Us</a>
                   <div class="customNavigation mt-40">
                       <a class="prev"><i class="icon arrow_left"></i></a>
                       <a class="next"><i class="icon arrow_right"></i></a>
@@ -602,7 +516,7 @@
       <div class="col-xs-12"> 
         <h2>We Have Many Solution Waiting for You!</h2>
         <div style="color: white;">If you're interested, don't hesitate to contact us. We have all the solutions you need.</div>
-        <a href="contact.html" class="btn btn-lg btn-transparent">Contact Us</a>
+        <a href="contact.php" class="btn btn-lg btn-transparent">Contact Us</a>
       </div>
 
     </div>
@@ -670,136 +584,3 @@
         </div>
       </div>
     </section> <!-- end features -->
-
-
-
-    <!-- <section class="section-wrap-mp testimonials style-2 bg-light">
-
-      <div class="row heading mb-20">
-        <div class="col-md-4 col-md-offset-4 col-sm-6 col-sm-offset-3">
-          <h2 class="text-center">Happy Clients</h2>
-        </div>
-      </div>
-
-      <div id="owl-testimonials" class="owl-carousel owl-theme text-center">
-
-        <div class="item">
-          <div class="container testimonial">
-            <div class="row">
-              <div class="col-md-10 col-md-offset-1">
-                <p class="testimonial-text">I’am amazed, I should say thank you so much for your awesome template. Design is so good and neat, every detail has been taken care these team are realy amazing and talented! I will work only with enigma agency. I will rate it 5 Stars!</p>
-                <span>John C. Marshall, Art Director</span>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="item">
-          <div class="container testimonial">
-            <div class="row">
-              <div class="col-md-10 col-md-offset-1">
-                <p class="testimonial-text">I’am amazed, I should say thank you so much for your awesome template. Design is so good and neat, every detail has been taken care these team are realy amazing and talented! I will work only with enigma agency. I will rate it 5 Stars!</p>
-                <span>Jessica Green, CEO of Company</span>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="item">
-          <div class="container testimonial">
-            <div class="row">
-              <div class="col-md-10 col-md-offset-1">
-                <p class="testimonial-text">I’am amazed, I should say thank you so much for your awesome template. Design is so good and neat, every detail has been taken care these team are realy amazing and talented! I will work only with enigma agency. I will rate it 5 Stars!</p>
-                <span>Chandler Bing, Google</span>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-
-    </section>  -->
-
-
-    <!-- Footer Type-2 -->
-    <footer class="footer footer-type-2 bg-dark">
-      <div class="container">
-        <div class="footer-widgets">
-          <div class="row">
-
-            <div class="col-md-6 col-sm-6 col-xs-12">
-              <div class="widget footer-about-us">
-                <h5>About Us</h5>
-                <p class="mb-0">At QWAVE CO LTD, we're at the forefront of communication technology. From establishing cutting-edge telephone and radio towers to crafting bespoke website solutions, we're dedicated to connecting the world seamlessly. Our team of experts ensures that you stay ahead in this ever-evolving digital landscape.</p>
-              </div>
-            </div> <!-- end about us -->
-            
-
-            <div class="col-md-6 col-sm-6 col-xs-12">
-              <div class="widget footer-get-in-touch">
-                <h5>Get in Touch</h5>
-                <p class="footer-address">บริษัท คิว เวฟ จำกัด<br> 
-                  179/83 ถนนนาวงประชาพัฒนา แขวงสีกัน
-                  เขตดอนเมือง กรุงเทพมหานคร 10210 </p>
-                <p>Phone: +66 02-089-0751</p>
-                <p>Email: <a href="mailto:admin@qwave.co.th">admin@qwave.co.th</a></p>
-                <p>Fax: +66 02-089-0752</p>
-              </div>
-            </div> <!-- end stay in touch -->
-
-           
-
-          </div> <!-- end row -->
-        </div> <!-- end footer widgets -->      
-      </div> <!-- end container -->
-
-      <div class="bottom-footer">
-        <div class="container">
-          <div class="row">
-
-            <div class="col-sm-6 col-xs-12 copyright">
-              <span>
-                &copy;<script>document.write( new Date().getFullYear() );</script> QWAVE CO LTD.  |  Development by QwaveDev</a>
-              </span>
-            </div>
-              
-            <div class="col-sm-4 col-sm-offset-2 col-xs-12 footer-socials">
-              <div class="social-icons clearfix right">
-                <a href="https://www.facebook.com/profile.php?id=100063558431525"><i class="fa fa-facebook"></i></a>                  
-              </div>
-            </div>
-
-          </div>
-        </div>
-      </div> <!-- end bottom footer -->
-    </footer> <!-- end footer -->
-
-    <div id="back-to-top">
-      <a href="#top"><i class="fa fa-angle-up"></i></a>
-    </div>
-
-  </div> <!-- end main-wrapper -->
-  
-  <!-- jQuery Scripts -->
-  <script type="text/javascript" src="js/jquery.min.js"></script>
-  <script type="text/javascript" src="js/bootstrap.min.js"></script>
-  <script type="text/javascript" src="js/plugins.js"></script>
-  <script type="text/javascript" src="revolution/js/jquery.themepunch.tools.min.js"></script>
-  <script type="text/javascript" src="revolution/js/jquery.themepunch.revolution.min.js"></script>
-  <script type="text/javascript" src="js/rev-slider.js"></script>
-    <script type="text/javascript" src="js/scripts.js"></script>
-
-
-    <script type="text/javascript" src="revolution/js/extensions/revolution.extension.video.min.js"></script>
-    <script type="text/javascript" src="revolution/js/extensions/revolution.extension.carousel.min.js"></script>
-    <script type="text/javascript" src="revolution/js/extensions/revolution.extension.slideanims.min.js"></script>
-    <script type="text/javascript" src="revolution/js/extensions/revolution.extension.actions.min.js"></script>
-    <script type="text/javascript" src="revolution/js/extensions/revolution.extension.layeranimation.min.js"></script>
-    <script type="text/javascript" src="revolution/js/extensions/revolution.extension.kenburn.min.js"></script>
-    <script type="text/javascript" src="revolution/js/extensions/revolution.extension.navigation.min.js"></script>
-    <script type="text/javascript" src="revolution/js/extensions/revolution.extension.migration.min.js"></script>
-    <script type="text/javascript" src="revolution/js/extensions/revolution.extension.parallax.min.js"></script>
-
-</body>
-
-<!-- Mirrored from deothemes.com/envato/enigma/html/index-mp.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 03 Oct 2023 12:22:05 GMT -->
-</html>
